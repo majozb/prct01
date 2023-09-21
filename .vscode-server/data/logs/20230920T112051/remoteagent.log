@@ -1,0 +1,16 @@
+2023-09-20 11:20:51.923 [info] 
+
+
+
+
+2023-09-20 11:20:51.923 [info] Extension host agent started.
+2023-09-20 11:20:51.937 [info] Started initializing default profile extensions in extensions installation folder. file:///home/usuario/.vscode-server/extensions
+2023-09-20 11:20:51.988 [info] [127.0.0.1][526e7746][ManagementConnection] New connection established.
+2023-09-20 11:20:51.993 [info] [127.0.0.1][cedee0eb][ExtensionHostConnection] New connection established.
+2023-09-20 11:20:52.001 [info] [127.0.0.1][cedee0eb][ExtensionHostConnection] <3426> Launched Extension Host Process.
+2023-09-20 11:20:52.004 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/usuario/.vscode-server/extensions
+2023-09-20 11:25:51.870 [info] New EH opened, aborting shutdown
+2023-09-20 11:28:24.520 [info] [127.0.0.1][526e7746][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-20 11:28:24.552 [info] [127.0.0.1][cedee0eb][ExtensionHostConnection] <3426> Extension Host Process exited with code: 0, signal: null.
+2023-09-20 11:28:24.553 [info] Last EH closed, waiting before shutting down
+2023-09-20 11:33:24.556 [info] Last EH closed, shutting down

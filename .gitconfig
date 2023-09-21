@@ -1,0 +1,9 @@
+[user]
+	name = Mariajose Zuloeta Brito
+	email = alu0101516608@ull.edu.es
+[credential]
+	helper = cache
+[push]
+	default = matching
+[branch]
+	autosetuprebase = always
